@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "test",
+      "category": "Electronics",
+      "freshness": "BrandNew",
+      "price": 1111,
+      "comment": "gggg",
+      "date": "2022-11-22T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "hhh",
+      "category": "Electronics",
+      "freshness": "BrandNew",
+      "price": 111,
+      "comment": "dddd",
+      "date": "2022-11-22T05:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
